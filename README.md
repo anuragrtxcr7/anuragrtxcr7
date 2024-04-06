@@ -1,7 +1,9 @@
-![Header](./github-header-image-2.png)
+![Header](./github-header-image-6.png)
 
 <h1 align="center">Hi 👋, I'm Anurag Jain</h1>
 <h3 align="center">A passionate and intellectual Software Developer</h3>
+
+<img align="right" alt="Coding" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragrtxcr7&label=Profile%20views&color=0e75b6&style=flat" alt="anuragrtxcr7" /> </p>
 
